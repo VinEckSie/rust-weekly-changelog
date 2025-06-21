@@ -15,9 +15,9 @@ You’ll find:
 ## 🌟 Why?
 
 This is a public commitment to:
-💡 Keep learning
-🤝 Share my path with others
-🧭 Leave a digital trail of my efforts
+-💡 Keep learning
+- 🤝 Share my path with others
+- 🧭 Leave a digital trail of my efforts
 
 <!--
 Connect with me on:
