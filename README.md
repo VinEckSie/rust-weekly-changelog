@@ -5,11 +5,11 @@ Welcome to my public logbook documenting my daily journey learning Rust, cryptog
 ## 🔍 What’s in here?
 
 You’ll find:
-✅ Daily progress logs
-🧪 Notes on products like RustPulse, cryptographic crates
-📚 Updates on my cryptography book “Sealed in Rust”
-🎥 Content from my YouTube channel “Fearless in Rust”
-📈 A living proof of consistency and improvement
+- ✅ Daily progress logs
+- 🧪 Notes on products like RustPulse, cryptographic crates
+- 📚 Updates on my cryptography book “Sealed in Rust”
+- 🎥 Content from my YouTube channel “Fearless in Rust”
+- 📈 A living proof of consistency and improvement
 
 ## 🌟 Why?
 
