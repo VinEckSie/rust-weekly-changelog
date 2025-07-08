@@ -6,10 +6,8 @@ Welcome to my public logbook documenting my daily journey learning Rust, cryptog
 
 You’ll find:
 - ✅ Daily progress logs
-- 🧪 Notes on my personal products like RustPulse, Sigvault and Lendra
+- 🧪 Notes on my personal products like RustPulse, Cryon and Lendra
 - 🧪 Low-level builds in Rust like HTTP server, interpreter, Redis, Kafka, and so on via CodeCrafters
-- 📚 Updates on my cryptography book “Sealed in Rust”
-- 🎥 Content from my YouTube channel “Fearless in Rust”
 - 📈 A living proof of consistency and improvement
 
 ## 🌟 Why?
